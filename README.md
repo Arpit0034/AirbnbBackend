@@ -41,7 +41,7 @@ Implements complete hotel management, per-day room inventory tracking, a 4-layer
                     │  │   Role-based access control      │   │
                     │  └──────────────┬───────────────────┘   │
                     │                 │                       │
-                    │  ┌──────────────▼──────────────────┐    │
+                    │  ┌──────────────▼───────────────────┐   │
                     │  │          Controllers             │   │
                     │  │  AuthController                  │   │
                     │  │  HotelBrowseController           │   │
